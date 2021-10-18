@@ -27,3 +27,17 @@
 - [05 - Dicionários](Cap01/Notebooks/05-Dicionarios.ipynb)
 - [06 - Tuplas](Cap01/Notebooks/06-Tuplas.ipynb)
 - [07 - Exercícios resolvidos](Cap01/Notebooks/07-Exercicios.ipynb)
+
+---
+
+## Capítulo 02
+
+- [01 - If, Elif e Else](Cap02/Notebooks/01-If-Elif-Else.ipynb)
+- [02 - Loop For](Cap02/Notebooks/02-For.ipynb)
+- [03 - Loop While](Cap02/Notebooks/03-While.ipynb)
+- [04 - Função Range](Cap02/Notebooks/04-Range.ipynb)
+- [05 - Métodos](Cap02/Notebooks/05-Metodos.ipynb)
+- [06 - Funções](Cap02/Notebooks/06-Funcoes.ipynb)
+- [07 - Expressões Lambda](Cap02/Notebooks/07-Lambda.ipynb)
+- [08 - Exercícios de loops e Condicionais](Cap02/Notebooks/08-Exercicios-Loops-Condicionais.ipynb)
+- [09 - Exercícios sobre Funções](Cap02/Notebooks/09-Exercicios-Funcoes.ipynb)
