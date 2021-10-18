@@ -41,3 +41,21 @@
 - [07 - Expressões Lambda](Cap02/Notebooks/07-Lambda.ipynb)
 - [08 - Exercícios de loops e Condicionais](Cap02/Notebooks/08-Exercicios-Loops-Condicionais.ipynb)
 - [09 - Exercícios sobre Funções](Cap02/Notebooks/09-Exercicios-Funcoes.ipynb)
+- [10 - Projeto de uma Calculadora Simples](Cap02/Projeto/calculadora.py)
+
+---
+
+## Capítulo 03
+
+- [01 - Arquivos Parte 1](Cap03/Notebooks/01-Arquivos-Parte1.ipynb)
+- [02 - Arquivos Parte 2](Cap03/Notebooks/02-Arquivos-Parte2.ipynb)
+- [03 - Módulos e Pacotes](Cap03/Notebooks/03-Modulos-e-Pacotes.ipynb)
+- [04 - Datetime](Cap03/Notebooks/04-Datetime.ipynb)
+- [05 - Map](Cap03/Notebooks/05-Map.ipynb)
+- [06 - Reduce](Cap03/Notebooks/06-Reduce.ipynb)
+- [07 - Filter](Cap03/Notebooks/07-Filter.ipynb)
+- [08 - List Comprehension](Cap03/Notebooks/08-List-Comprehension.ipynb)
+- [09 - Zip](Cap03/Notebooks/09-Zip.ipynb)
+- [10 - Enumerate](Cap03/Notebooks/10-Enumerate.ipynb)
+- [11 - Erros e Exceções](Cap03/Notebooks/11-Erros-e-Excecoes.ipynb)
+- [12 - Exercícios resolvidos](Cap03/Notebooks/12-Exercicios.ipynb)
