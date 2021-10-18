@@ -15,3 +15,15 @@
     - Verifique se tem uma extensão do *jupyter*.
   - Você também pode usar o Anaconda para criar estes arquivos.
   - Ou o Google Colaboratory, onde você cria esses notebooks e eles ficam salvos direto no seu google drive.
+
+---
+
+## Capítulo 01
+
+- [01 - Números](Cap01/Notebooks/01-Numeros.ipynb)
+- [02 - Variáveis](Cap01/Notebooks/02-Variaveis.ipynb)
+- [03 - Strings e Indexação](Cap01/Notebooks/03-Strings-e-Indexacao.ipynb)
+- [04 - Listas](Cap01/Notebooks/04-Listas.ipynb)
+- [05 - Dicionários](Cap01/Notebooks/05-Dicionarios.ipynb)
+- [06 - Tuplas](Cap01/Notebooks/06-Tuplas.ipynb)
+- [07 - Exercícios resolvidos](Cap01/Notebooks/07-Exercicios.ipynb)
