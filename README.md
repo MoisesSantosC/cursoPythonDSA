@@ -59,3 +59,7 @@
 - [10 - Enumerate](Cap03/Notebooks/10-Enumerate.ipynb)
 - [11 - Erros e Exceções](Cap03/Notebooks/11-Erros-e-Excecoes.ipynb)
 - [12 - Exercícios resolvidos](Cap03/Notebooks/12-Exercicios.ipynb)
+
+## Capítulo 04
+
+- [01 - Classes](Cap04/Notebooks/01-Classes.ipynb)
